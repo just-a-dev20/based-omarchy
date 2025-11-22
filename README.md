@@ -1,9 +1,13 @@
-# Omarchy
+# Omarchy (Fork)
 
-Omarchy is a beautiful, modern & opinionated Linux distribution by DHH.
+This repository is a fork of **Omarchy**, the beautiful, modern, and opinionated Linux distribution originally created by DHH.
+This fork builds upon the upstream project while allowing independent experimentation, customization, and iteration.
 
-Read more at [omarchy.org](https://omarchy.org).
+Learn more about the original project at **omarchy.org**.
 
 ## License
 
-Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
+This fork, like the upstream project, is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
